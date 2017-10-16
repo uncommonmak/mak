@@ -1,9 +1,12 @@
 #include<stdio.h>
 
-int main(){
+int main()
+{
 	
-	printf("Hello world!\nThis is MAK.\n");
-	
+	for(i = 0; i >= 0; i++)
+	{
+		printf("Hello world!\nThis is MAK.\n");
+	}
 	
 	return 0;
 }
